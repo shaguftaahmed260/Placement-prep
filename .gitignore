@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# C++ executables
+*.out
+*.exe
+
+# Ignore compiled binaries
+Basics/For_loop
+Basics/even_loop
+Basics/odd_loop
+Basics/natural_nos
+Basics/running_sum
+Basics/lowhighint
