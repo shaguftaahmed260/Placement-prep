@@ -5,7 +5,6 @@
 *.out
 *.exe
 
-# Ignore compiled binaries
 Basics/For_loop
 Basics/even_loop
 Basics/odd_loop
